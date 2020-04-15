@@ -19,7 +19,8 @@ public class GitDemo2 {
 		//git branch -- check the current branch
 		//git merge <branchname>
 		//git pull
-		
+		//Create .gitignore textfile in C:\Users\Pallavi\eclipse-workspace\GitDemo
+		//and write /bin/ and /desktop.ini
 
 	}
 
