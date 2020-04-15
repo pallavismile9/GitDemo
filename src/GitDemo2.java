@@ -21,7 +21,7 @@ public class GitDemo2 {
 		//git pull
 		//Create .gitignore textfile in C:\Users\Pallavi\eclipse-workspace\GitDemo
 		//and write /bin/ and /desktop.ini
-
+		
 	}
 
 }
